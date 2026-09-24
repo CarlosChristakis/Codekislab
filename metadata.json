@@ -1,0 +1,6 @@
+{
+  "name": "Codekis Labs",
+  "description": "Codekis Labs — Desenvolvendo pessoas que compreendem, decidem e melhoram processos. Processos, inteligência artificial, aprendizagem prática e melhoria contínua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
