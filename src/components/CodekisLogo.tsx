@@ -163,7 +163,7 @@ export const CodekisLogo: React.FC<CodekisLogoProps> = ({
           <div className="flex items-center justify-center gap-2 mt-1">
             <span className={`w-5 h-[1.5px] ${lineRuleColor}`} />
             <span className={`font-heading font-bold uppercase ${subSizeClass} text-[#C38735]`}>
-              LABS
+              LAB
             </span>
             <span className={`w-5 h-[1.5px] ${lineRuleColor}`} />
           </div>
@@ -183,7 +183,7 @@ export const CodekisLogo: React.FC<CodekisLogoProps> = ({
         <div className="flex items-center gap-2 mt-1">
           <span className={`w-3.5 h-[1.5px] ${lineRuleColor}`} />
           <span className={`font-heading font-extrabold uppercase ${subSizeClass} text-[#C38735]`}>
-            LABS
+            LAB
           </span>
           <span className={`w-3.5 h-[1.5px] ${lineRuleColor}`} />
         </div>
