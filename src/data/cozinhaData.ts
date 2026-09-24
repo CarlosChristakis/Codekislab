@@ -446,6 +446,6 @@ export const CARLOS_INFO = {
   role: "Criador do projeto Código da Cozinha Pensante",
   bio: "Profissional com experiência em gastronomia, gestão de processos, tecnologia e melhoria contínua. O projeto nasce da integração entre experiência prática de operação, análise de processos e novas tecnologias.",
   manifesto: "Na rotina de uma cozinha, pequenos problemas se repetem diariamente: produção excessiva, desperdícios, falhas de comunicação, falta de padrão e decisões tomadas sem informação. Ao observar essas situações, surgiu uma pergunta: Por que ensinamos tantas pessoas a executar tarefas, mas poucas a compreender processos? A partir dessa pergunta nasceu o Código da Cozinha Pensante.",
-  praxisRole: "A Codekis Labs é o ecossistema e O Código é a fundação da casa. O Código da Cozinha Pensante é o primeiro cômodo edificado sobre esse alicerce: a aplicação prática do método no ambiente mais desafiador, implacável e transformador da operação real.",
+  praxisRole: "A Codekis Lab é o ecossistema e O Código é a fundação da casa. O Código da Cozinha Pensante é o primeiro cômodo edificado sobre esse alicerce: a aplicação prática do método no ambiente mais desafiador, implacável e transformador da operação real.",
   photo: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80"
 };

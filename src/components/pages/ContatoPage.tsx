@@ -72,7 +72,7 @@ export const ContatoPage: React.FC<ContatoPageProps> = ({ onNavigate }) => {
             Canal Institucional
           </span>
           <h1 className="text-3xl sm:text-5xl font-heading font-extrabold text-[#04162B] tracking-tight">
-            Fale com a Codekis Labs
+            Fale com a Codekis Lab
           </h1>
           <p className="text-[#475569] text-base sm:text-lg">
             Estamos prontos para entender seus desafios de processos, pessoas e inteligência operacional.
@@ -244,7 +244,7 @@ export const ContatoPage: React.FC<ContatoPageProps> = ({ onNavigate }) => {
                   <Mail className="w-5 h-5 text-[#C38735] shrink-0 mt-0.5" />
                   <div>
                     <p className="font-heading font-bold text-white">E-mail Institucional</p>
-                    <p className="text-xs text-slate-400">contato@codekislabs.com.br</p>
+                    <p className="text-xs text-slate-400">contato@codekislab.com.br</p>
                   </div>
                 </div>
 
@@ -267,7 +267,7 @@ export const ContatoPage: React.FC<ContatoPageProps> = ({ onNavigate }) => {
 
               <div className="pt-6 border-t border-slate-800">
                 <p className="text-xs font-heading font-bold uppercase tracking-wider text-slate-400 mb-3">
-                  Acompanhe a Codekis Labs
+                  Acompanhe a Codekis Lab
                 </p>
                 <div className="flex items-center gap-3">
                   <a

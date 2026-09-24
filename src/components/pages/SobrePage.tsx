@@ -61,7 +61,7 @@ export const SobrePage: React.FC<SobrePageProps> = ({
             </div>
 
             <h1 className="text-3xl sm:text-5xl lg:text-6xl font-heading font-extrabold text-white tracking-tight leading-tight">
-              Sobre a Codekis Labs
+              Sobre a Codekis Lab
             </h1>
 
             <p className="text-xl sm:text-2xl font-heading font-bold text-[#F5C06A] leading-snug">
@@ -105,7 +105,7 @@ export const SobrePage: React.FC<SobrePageProps> = ({
                 Pitch Institucional
               </span>
               <h2 className="text-3xl sm:text-4xl font-heading font-extrabold text-[#04162B] tracking-tight">
-                Como e por que a Codekis Labs foi criada
+                Como e por que a Codekis Lab foi criada
               </h2>
             </div>
 
@@ -140,7 +140,7 @@ export const SobrePage: React.FC<SobrePageProps> = ({
       </section>
 
 
-      {/* 3. OS 4 PILARES DA CODEKIS LABS */}
+      {/* 3. OS 4 PILARES DA CODEKIS LAB */}
       <section className="py-20 lg:py-28 bg-[#F5F3EE] border-b border-[#E5E7EB]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           
@@ -216,7 +216,7 @@ export const SobrePage: React.FC<SobrePageProps> = ({
             </h2>
             <div className="pt-4 border-t border-slate-700 flex flex-wrap items-center justify-between gap-4 text-xs text-slate-300">
               <span>Desenvolvimento Humano • IA • Processos • Melhoria Contínua</span>
-              <span className="text-[#F5C06A] font-bold">Codekis Labs</span>
+              <span className="text-[#F5C06A] font-bold">Codekis Lab</span>
             </div>
           </div>
         </div>
@@ -239,10 +239,10 @@ export const SobrePage: React.FC<SobrePageProps> = ({
             </p>
           </div>
 
-          {/* Fluxo Visual de Escalabilidade (CODEKIS LABS ↓ CÓDIGO ↓ CÓDIGO DA COZINHA PENSANTE ↓ FUTURAS VERTICAIS) */}
+          {/* Fluxo Visual de Escalabilidade (CODEKIS LAB ↓ CÓDIGO ↓ CÓDIGO DA COZINHA PENSANTE ↓ FUTURAS VERTICAIS) */}
           <div className="max-w-4xl mx-auto space-y-4">
             
-            {/* Nível 1: CODEKIS LABS */}
+            {/* Nível 1: CODEKIS LAB */}
             <div className="p-6 sm:p-8 rounded-2xl bg-[#04162B] text-white border border-[#072F54] flex flex-col sm:flex-row items-center justify-between gap-4 shadow-lg">
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-xl bg-white/10 flex items-center justify-center text-[#C38735] shrink-0 font-mono font-bold text-sm">
@@ -253,7 +253,7 @@ export const SobrePage: React.FC<SobrePageProps> = ({
                     A Empresa & Visão Central
                   </span>
                   <h3 className="text-xl sm:text-2xl font-heading font-extrabold text-white">
-                    CODEKIS LABS
+                    CODEKIS LAB
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-300 mt-1">
                     Startup de desenvolvimento profissional e inteligência operacional.

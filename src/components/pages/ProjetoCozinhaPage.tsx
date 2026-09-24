@@ -164,7 +164,7 @@ export const ProjetoCozinhaPage: React.FC<ProjetoCozinhaPageProps> = ({
               <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#C38735]/20 border border-[#C38735]/40">
                 <UtensilsCrossed className="w-3.5 h-3.5 text-[#C38735]" />
                 <span className="text-xs font-heading font-bold uppercase tracking-widest text-[#C38735]">
-                  Primeira Vertical Codekis Labs
+                  Primeira Vertical Codekis Lab
                 </span>
               </div>
 

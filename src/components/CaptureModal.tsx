@@ -14,7 +14,7 @@ export const CaptureModal: React.FC<CaptureModalProps> = ({
   isOpen,
   onClose,
   source = 'geral',
-  defaultTitle = 'Acompanhe a Codekis Labs'
+  defaultTitle = 'Acompanhe a Codekis Lab'
 }) => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -71,7 +71,7 @@ export const CaptureModal: React.FC<CaptureModalProps> = ({
           <div>
             <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-[#04162B]/5 text-[#04162B] text-xs font-heading font-bold uppercase tracking-wider mb-3">
               <span className="w-1.5 h-1.5 rounded-full bg-[#C38735]" />
-              <span>Codekis Labs &bull; Ecossistema</span>
+              <span>Codekis Lab &bull; Ecossistema</span>
             </div>
 
             <h3 className="text-2xl font-heading font-extrabold text-[#04162B] tracking-tight mb-2">
@@ -79,7 +79,7 @@ export const CaptureModal: React.FC<CaptureModalProps> = ({
             </h3>
 
             <p className="text-[#475569] text-xs sm:text-sm leading-relaxed mb-6">
-              Cadastre-se para acompanhar a evolução da <strong>Codekis Labs</strong>, o desenvolvimento d'<strong>O Código</strong> e o lançamento das próximas verticais e soluções.
+              Cadastre-se para acompanhar a evolução da <strong>Codekis Lab</strong>, o desenvolvimento d'<strong>O Código</strong> e o lançamento das próximas verticais e soluções.
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-4">
@@ -157,7 +157,7 @@ export const CaptureModal: React.FC<CaptureModalProps> = ({
             </h3>
 
             <p className="text-sm text-[#475569] max-w-sm mx-auto leading-relaxed">
-              Obrigado pelo interesse na <strong>Codekis Labs</strong>. Você receberá nossas análises de processos e novidades em primeira mão.
+              Obrigado pelo interesse na <strong>Codekis Lab</strong>. Você receberá nossas análises de processos e novidades em primeira mão.
             </p>
 
             <div className="pt-4">

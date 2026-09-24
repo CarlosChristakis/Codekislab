@@ -60,11 +60,11 @@ export const Header: React.FC<HeaderProps> = ({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           
-          {/* 1. Codekis Labs Brand Logo */}
+          {/* 1. Codekis Lab Brand Logo */}
           <button
             onClick={() => handleNavClick('home')}
             className="flex items-center text-left cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[#C38735] rounded-xl p-1 -ml-1 transition-opacity hover:opacity-95"
-            aria-label="Ir para a página inicial da Codekis Labs"
+            aria-label="Ir para a página inicial da Codekis Lab"
           >
             <CodekisLogo variant="horizontal" theme="dark" size="md" />
           </button>
@@ -176,7 +176,7 @@ export const Header: React.FC<HeaderProps> = ({
             {/* Tagline header in drawer */}
             <div className="px-3 py-2 bg-[#F5F3EE] rounded-xl border border-[#E5E7EB] mb-2">
               <p className="text-xs text-[#04162B] font-heading font-semibold">
-                Codekis Labs
+                Codekis Lab
               </p>
               <p className="text-[11px] text-[#475569] mt-0.5">
                 Desenvolvendo pessoas que compreendem, decidem e melhoram processos.

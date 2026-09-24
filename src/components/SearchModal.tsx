@@ -171,7 +171,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({
         {/* Footer info */}
         <div className="px-4 py-2.5 bg-[#F5F3EE] border-t border-[#E5E7EB] text-[11px] text-slate-400 flex items-center justify-between">
           <span>Pressione ESC para fechar</span>
-          <span className="font-heading font-semibold text-[#04162B]">Codekis Labs &bull; Busca Global</span>
+          <span className="font-heading font-semibold text-[#04162B]">Codekis Lab &bull; Busca Global</span>
         </div>
 
       </div>

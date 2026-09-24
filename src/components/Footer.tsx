@@ -60,7 +60,7 @@ export const Footer: React.FC<FooterProps> = ({
             {/* Brand Statement */}
             <div className="lg:col-span-7 space-y-3">
               <span className="inline-block px-3 py-1 rounded-md bg-[#C38735]/20 text-[#C38735] text-xs font-heading font-bold uppercase tracking-wider">
-                Startup Codekis Labs
+                Startup Codekis Lab
               </span>
               <h3 className="text-2xl sm:text-3xl font-heading font-bold text-white tracking-tight">
                 Receba estudos, métodos e análises operacionais.
@@ -75,7 +75,7 @@ export const Footer: React.FC<FooterProps> = ({
               {subscribed ? (
                 <div className="flex items-center gap-3 p-4 rounded-xl bg-[#C38735]/20 border border-[#C38735]/40 text-white animate-in fade-in duration-300">
                   <CheckCircle2 className="w-5 h-5 text-[#C38735] shrink-0" />
-                  <span className="text-sm font-medium">Inscrição confirmada. Bem-vindo à Codekis Labs!</span>
+                  <span className="text-sm font-medium">Inscrição confirmada. Bem-vindo à Codekis Lab!</span>
                 </div>
               ) : (
                 <form onSubmit={handleSubscribe} className="space-y-3">
@@ -140,7 +140,7 @@ export const Footer: React.FC<FooterProps> = ({
                 target="_blank"
                 rel="noreferrer"
                 className="w-9 h-9 rounded-lg bg-[#072F54] hover:bg-[#C38735] hover:text-[#04162B] text-slate-300 flex items-center justify-center transition-colors"
-                aria-label="LinkedIn da Codekis Labs"
+                aria-label="LinkedIn da Codekis Lab"
               >
                 <Linkedin className="w-4 h-4" />
               </a>
@@ -149,7 +149,7 @@ export const Footer: React.FC<FooterProps> = ({
                 target="_blank"
                 rel="noreferrer"
                 className="w-9 h-9 rounded-lg bg-[#072F54] hover:bg-[#C38735] hover:text-[#04162B] text-slate-300 flex items-center justify-center transition-colors"
-                aria-label="Instagram da Codekis Labs"
+                aria-label="Instagram da Codekis Lab"
               >
                 <Instagram className="w-4 h-4" />
               </a>
@@ -158,7 +158,7 @@ export const Footer: React.FC<FooterProps> = ({
                 target="_blank"
                 rel="noreferrer"
                 className="w-9 h-9 rounded-lg bg-[#072F54] hover:bg-[#C38735] hover:text-[#04162B] text-slate-300 flex items-center justify-center transition-colors"
-                aria-label="YouTube da Codekis Labs"
+                aria-label="YouTube da Codekis Lab"
               >
                 <Youtube className="w-4 h-4" />
               </a>
@@ -259,7 +259,7 @@ export const Footer: React.FC<FooterProps> = ({
                   onClick={() => onNavigate('sobre')}
                   className="hover:text-white transition-colors cursor-pointer text-left"
                 >
-                  Sobre a Codekis Labs
+                  Sobre a Codekis Lab
                 </button>
               </li>
               <li>
@@ -294,7 +294,7 @@ export const Footer: React.FC<FooterProps> = ({
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
           <p>
-            © {new Date().getFullYear()} <span className="text-white font-semibold">Codekis Labs</span>. Todos os direitos reservados.
+            © {new Date().getFullYear()} <span className="text-white font-semibold">Codekis Lab</span>. Todos os direitos reservados.
           </p>
           <div className="flex items-center gap-6">
             <span className="italic text-slate-400">

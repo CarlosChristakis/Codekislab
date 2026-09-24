@@ -112,7 +112,7 @@ export const CodigoPage: React.FC<CodigoPageProps> = ({
       code: "01",
       title: "Executar",
       tagline: "Dominar a atividade.",
-      concept: "Executar não é apenas cumprir ordens ou acelerar movimentos mecânicos. Na Codekis Labs, executar é a base de todo o conhecimento: é onde o profissional domina a técnica do gesto, a ergonomia, o manuseio das ferramentas e a disciplina necessária para realizar a tarefa com segurança e consistência.",
+      concept: "Executar não é apenas cumprir ordens ou acelerar movimentos mecânicos. Na Codekis Lab, executar é a base de todo o conhecimento: é onde o profissional domina a técnica do gesto, a ergonomia, o manuseio das ferramentas e a disciplina necessária para realizar a tarefa com segurança e consistência.",
       whatLearns: [
         "Atenção plena ao posto de trabalho e eliminação de movimentos redundantes",
         "Disciplina técnica e respeito aos padrões de segurança e manuseio",
@@ -217,7 +217,7 @@ export const CodigoPage: React.FC<CodigoPageProps> = ({
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#C38735]/20 border border-[#C38735]/30">
               <span className="w-2 h-2 rounded-full bg-[#C38735]" />
               <span className="text-xs font-heading font-bold uppercase tracking-widest text-[#C38735]">
-                Metodologia Codekis Labs
+                Metodologia Codekis Lab
               </span>
             </div>
 
@@ -307,7 +307,7 @@ export const CodigoPage: React.FC<CodigoPageProps> = ({
             <div className="p-8 rounded-2xl bg-[#04162B] text-white border border-[#04162B] space-y-4 flex flex-col justify-between shadow-xl">
               <div>
                 <span className="text-xs font-mono font-bold uppercase tracking-wider text-[#C38735] block mb-2">
-                  A Abordagem Codekis Labs
+                  A Abordagem Codekis Lab
                 </span>
                 <h3 className="text-2xl font-heading font-bold text-white">
                   A Visão Sistêmica e a Autonomia
@@ -864,7 +864,7 @@ export const CodigoPage: React.FC<CodigoPageProps> = ({
           </h2>
 
           <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed">
-            Seja através de um diagnóstico operacional na sua empresa ou conhecendo a vertical Cozinha Pensante, a Codekis Labs desenvolve as competências que destravam o verdadeiro potencial da sua equipe.
+            Seja através de um diagnóstico operacional na sua empresa ou conhecendo a vertical Cozinha Pensante, a Codekis Lab desenvolve as competências que destravam o verdadeiro potencial da sua equipe.
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 pt-4">

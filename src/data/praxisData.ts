@@ -30,7 +30,7 @@ export const HERO_IMAGES = {
   platedDish: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1000&q=80"
 };
 
-// Metodologia-Base da Codekis Labs (6 Estágios)
+// Metodologia-Base da Codekis Lab (6 Estágios)
 export const CODIGO_STEPS = [
   {
     key: "executar",
@@ -139,7 +139,7 @@ export const STARTUP_POSITIONING = {
   label: "Startup de Inteligência Operacional",
   tagline: "Desenvolvendo pessoas que compreendem, decidem e melhoram processos.",
   statement:
-    "A Codekis Labs é uma startup de desenvolvimento profissional e inteligência operacional que integra processos, inteligência artificial, aprendizagem prática e melhoria contínua para desenvolver pessoas capazes de compreender, decidir e melhorar processos."
+    "A Codekis Lab é uma startup de desenvolvimento profissional e inteligência operacional que integra processos, inteligência artificial, aprendizagem prática e melhoria contínua para desenvolver pessoas capazes de compreender, decidir e melhorar processos."
 };
 
 // Nossa Tese (Seção Home)
@@ -149,7 +149,7 @@ export const STARTUP_THESIS = {
   paragraphs: [
     "Muitas empresas treinam pessoas para executar tarefas, mas nem sempre desenvolvem essas pessoas para compreender o processo do qual fazem parte.",
     "Quando o profissional sabe apenas executar, aumentam a dependência de supervisão, o retrabalho, o desperdício, a perda de conhecimento e a dificuldade de melhoria.",
-    "A Codekis Labs nasce para atuar justamente nesse espaço.",
+    "A Codekis Lab nasce para atuar justamente nesse espaço.",
     "Somos uma startup de desenvolvimento profissional e inteligência operacional que combina processos, inteligência artificial, aprendizagem prática e melhoria contínua para transformar profissionais executores em pessoas capazes de compreender, analisar, decidir e melhorar processos."
   ]
 };
@@ -197,12 +197,12 @@ export const STARTUP_PITCH_BLOCKS = [
   }
 ];
 
-// Por que a Codekis Labs existe (Seção Institucional)
+// Por que a Codekis Lab existe (Seção Institucional)
 export const STARTUP_WHY_IT_EXISTS = {
-  title: "Por que a Codekis Labs existe",
+  title: "Por que a Codekis Lab existe",
   badge: "Propósito & Origem",
   paragraphs: [
-    "A Codekis Labs nasceu da observação de um problema simples, mas recorrente: organizações treinam pessoas para executar, mas nem sempre desenvolvem pessoas para compreender.",
+    "A Codekis Lab nasceu da observação de um problema simples, mas recorrente: organizações treinam pessoas para executar, mas nem sempre desenvolvem pessoas para compreender.",
     "Essa diferença afeta autonomia, qualidade, custos, conhecimento, tomada de decisão e capacidade de melhoria.",
     "A startup nasce para transformar essa realidade por meio de metodologia, tecnologia, diagnóstico e desenvolvimento humano."
   ]
@@ -226,7 +226,7 @@ export const STARTUP_SCALABILITY = {
   title: "Um Código. Múltiplas aplicações.",
   text: "A gastronomia é o primeiro laboratório. A metodologia foi concebida para ser aplicada a outros ambientes onde pessoas, processos e decisões estão diretamente conectados.",
   hierarchy: [
-    { level: "01", name: "CODEKIS LABS", role: "A Startup & Ecossistema de Inteligência Operacional" },
+    { level: "01", name: "CODEKIS LAB", role: "A Startup & Ecossistema de Inteligência Operacional" },
     { level: "02", name: "CÓDIGO", role: "A Metodologia-Base de 6 Estágios de Processos" },
     { level: "03", name: "CÓDIGO DA COZINHA PENSANTE", role: "Primeira Vertical & Laboratório de Validação Prática" },
     { level: "04", name: "FUTURAS VERTICAIS", role: "Expansão Setorial (Serviços, Saúde, Indústria e Logística)" }
@@ -235,10 +235,10 @@ export const STARTUP_SCALABILITY = {
 
 // Pitch Institucional em formato de prosa para Sobre
 export const STARTUP_PROSE_PITCH = [
-  "A Codekis Labs é uma startup criada para desenvolver pessoas que compreendem, decidem e melhoram processos.",
+  "A Codekis Lab é uma startup criada para desenvolver pessoas que compreendem, decidem e melhoram processos.",
   "A empresa surgiu da observação de um problema recorrente dentro das operações: muitas pessoas são treinadas para executar tarefas, mas nem sempre são desenvolvidas para compreender o processo do qual fazem parte.",
   "Esse cenário gera retrabalho, desperdício, dependência de supervisão, perda de conhecimento e dificuldade de melhoria.",
-  "A Codekis Labs combina processos, inteligência artificial, aprendizagem prática e melhoria contínua para transformar profissionais executores em pessoas mais conscientes, analíticas e capazes de tomar decisões melhores.",
+  "A Codekis Lab combina processos, inteligência artificial, aprendizagem prática e melhoria contínua para transformar profissionais executores em pessoas mais conscientes, analíticas e capazes de tomar decisões melhores.",
   "A metodologia-base da empresa é o Código, estruturado em seis movimentos: executar, compreender, medir, decidir, padronizar e melhorar.",
   "A primeira aplicação é o Código da Cozinha Pensante, voltado ao universo da gastronomia e operações de alimentação.",
   "A visão da startup é expandir essa metodologia para diferentes setores e contextos profissionais."
@@ -247,7 +247,7 @@ export const STARTUP_PROSE_PITCH = [
 // CTA Institucional Final
 export const STARTUP_CTA = {
   title: "Empresas mais inteligentes começam com pessoas que entendem o que fazem.",
-  subtitle: "A Codekis Labs desenvolve pessoas para compreender, decidir e melhorar processos.",
+  subtitle: "A Codekis Lab desenvolve pessoas para compreender, decidir e melhorar processos.",
   primaryButton: "Conheça o Código",
   secondaryButton: "Fale com a Codekis"
 };
@@ -292,7 +292,7 @@ export const CODEKIS_PROBLEMS = [
   }
 ];
 
-// Soluções Institucionais e Consultivas da Codekis Labs
+// Soluções Institucionais e Consultivas da Codekis Lab
 export const CODEKIS_SOLUTIONS = [
   {
     id: "diagnostico",
@@ -372,7 +372,7 @@ export const PROJECTS: ProjectItem[] = [
     id: "codigo-da-cozinha-pensante",
     slug: "codigo-da-cozinha-pensante",
     title: "Código da Cozinha Pensante",
-    description: "A primeira vertical da Codekis Labs. Aplica a metodologia do Código ao universo da gastronomia e operações de alimentação, desenvolvendo profissionais capazes de ir além da execução e compreender produção, desperdício, CMV, estoque, fluxo, equipe, qualidade e tomada de decisão.",
+    description: "A primeira vertical da Codekis Lab. Aplica a metodologia do Código ao universo da gastronomia e operações de alimentação, desenvolvendo profissionais capazes de ir além da execução e compreender produção, desperdício, CMV, estoque, fluxo, equipe, qualidade e tomada de decisão.",
     status: "Em desenvolvimento",
     category: "Gastronomia & Operações",
     image: HERO_IMAGES.kitchenDish,
@@ -402,7 +402,7 @@ export const PROJECTS: ProjectItem[] = [
     id: "novas-verticais",
     slug: "novas-verticais",
     title: "Futuras Verticais",
-    description: "Novas aplicações do Código em setores como hospitalidade, serviços de saúde e logística estão em fase conceitual. A Codekis Labs expande sua metodologia conforme valida cada laboratório prático.",
+    description: "Novas aplicações do Código em setores como hospitalidade, serviços de saúde e logística estão em fase conceitual. A Codekis Lab expande sua metodologia conforme valida cada laboratório prático.",
     status: "Em breve",
     category: "Ecossistema em Expansão",
     image: HERO_IMAGES.novosProjetos,
@@ -481,10 +481,10 @@ export const ARTICLES: Article[] = ARTICLES_DETAILED;
 
 export const CARLOS_INFO = {
   name: "Carlos Christakis",
-  role: "Idealizador da Codekis Labs",
+  role: "Idealizador da Codekis Lab",
   title: "Idealizador & Estrategista de Operações",
-  bio: "Profissional com sólida vivência em gestão de processos, melhoria contínua, operações gastronômicas, tecnologia e inteligência artificial aplicada. A Codekis Labs nasce da convicção de que nenhuma organização evolui sem antes desenvolver a capacidade das pessoas de compreenderem o que fazem e decidirem com base na realidade.",
-  manifesto: "Temos mais ferramentas, dados e tecnologia do que nunca. Mas isso não significa que sabemos aplicá-los melhor. A Codekis Labs existe para aproximar processo, inteligência e desenvolvimento humano. Não basta executar tarefas no piloto automático: o futuro pertence a quem compreende a esteira inteira, sabe ler dados com discernimento e age para melhorar continuamente.",
+  bio: "Profissional com sólida vivência em gestão de processos, melhoria contínua, operações gastronômicas, tecnologia e inteligência artificial aplicada. A Codekis Lab nasce da convicção de que nenhuma organização evolui sem antes desenvolver a capacidade das pessoas de compreenderem o que fazem e decidirem com base na realidade.",
+  manifesto: "Temos mais ferramentas, dados e tecnologia do que nunca. Mas isso não significa que sabemos aplicá-los melhor. A Codekis Lab existe para aproximar processo, inteligência e desenvolvimento humano. Não basta executar tarefas no piloto automático: o futuro pertence a quem compreende a esteira inteira, sabe ler dados com discernimento e age para melhorar continuamente.",
   photo: HERO_IMAGES.authorPortrait,
   focus: [
     "Engenharia de Processos e Operações",

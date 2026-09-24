@@ -74,7 +74,7 @@ export const CursoPage: React.FC<CursoPageProps> = ({
               </div>
 
               <p className="text-slate-300 text-base sm:text-lg leading-relaxed max-w-2xl">
-                As capacitações da Codekis Labs são experiências de aprendizagem construídas a partir de problemas reais de chão. O objetivo não é acumular certificados decorativos, mas desenvolver senso crítico, autonomia e capacidade resolutiva.
+                As capacitações da Codekis Lab são experiências de aprendizagem construídas a partir de problemas reais de chão. O objetivo não é acumular certificados decorativos, mas desenvolver senso crítico, autonomia e capacidade resolutiva.
               </p>
 
               <div className="pt-2 flex flex-wrap gap-4">

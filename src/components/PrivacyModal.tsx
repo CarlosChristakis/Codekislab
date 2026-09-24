@@ -34,7 +34,7 @@ export const PrivacyModal: React.FC<PrivacyModalProps> = ({ isOpen, onClose }) =
 
         <div className="space-y-3 text-xs sm:text-sm text-[#475569] leading-relaxed">
           <p>
-            A <strong>Codekis Labs</strong> e suas verticais (incluindo o <strong>Código da Cozinha Pensante</strong>) respeitam integralmente a sua privacidade e a legislação brasileira de proteção de dados (Lei nº 13.709/2018 - LGPD).
+            A <strong>Codekis Lab</strong> e suas verticais (incluindo o <strong>Código da Cozinha Pensante</strong>) respeitam integralmente a sua privacidade e a legislação brasileira de proteção de dados (Lei nº 13.709/2018 - LGPD).
           </p>
 
           <h4 className="font-heading font-bold text-[#04162B] pt-2">1. Coleta de Informações</h4>
@@ -59,7 +59,7 @@ export const PrivacyModal: React.FC<PrivacyModalProps> = ({ isOpen, onClose }) =
 
           <h4 className="font-heading font-bold text-[#04162B] pt-2">4. Cancelamento e Remoção</h4>
           <p>
-            Você pode solicitar a remoção imediata dos seus dados a qualquer momento enviando uma mensagem para <strong className="text-[#04162B]">contato@codekislabs.com.br</strong>.
+            Você pode solicitar a remoção imediata dos seus dados a qualquer momento enviando uma mensagem para <strong className="text-[#04162B]">contato@codekislab.com.br</strong>.
           </p>
         </div>
 

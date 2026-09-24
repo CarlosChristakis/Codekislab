@@ -25,5 +25,5 @@ app.get('*', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`[Codekis Labs] Servidor ativo e ouvindo na porta ${PORT}`);
+  console.log(`[Codekis Lab] Servidor ativo e ouvindo na porta ${PORT}`);
 });

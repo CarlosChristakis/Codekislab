@@ -24,7 +24,7 @@ export const ARTICLES_DETAILED: Article[] = [
     imageCaption: "A tarefa física que enxergamos é apenas a ponta visível de uma complexa esteira de transformações e decisões.",
     author: {
       name: "Carlos Christakis",
-      role: "Idealizador da Codekis Labs",
+      role: "Idealizador da Codekis Lab",
       avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
     },
     keyTakeaways: [
@@ -68,7 +68,7 @@ export const ARTICLES_DETAILED: Article[] = [
           "3. A Dimensão Posterior (Continuidade da Cadeia e Impacto): O que ocorre após o corte? O armazenamento intermediário, a sincronia com a praça de fritura, a cocção uniforme, o tempo de permanência no prato e a satisfação do cliente pagante. O cliente não consome uma tarefa; ele consome o resultado final de um processo integrado."
         ],
         callout: {
-          title: "O Princípio Fundamental da Codekis Labs",
+          title: "O Princípio Fundamental da Codekis Lab",
           text: "Uma tarefa jamais existe no vácuo. Quando você otimiza uma tarefa sem entender o processo em que ela se apoia, você está apenas acelerando o surgimento de gargalos no elo seguinte da corrente.",
           type: "tip"
         }
@@ -160,7 +160,7 @@ export const ARTICLES_DETAILED: Article[] = [
     imageCaption: "A correria generalizada e o estresse constante costumam ser sintomas de fluxos rompidos, e não de escassez de colaboradores.",
     author: {
       name: "Carlos Christakis",
-      role: "Idealizador da Codekis Labs"
+      role: "Idealizador da Codekis Lab"
     },
     keyTakeaways: [
       "A sensação crônica de sobrecarga da equipe geralmente decorre de retrabalho, espera por informações e deslocamentos inúteis, não de falta de braços.",
@@ -247,7 +247,7 @@ export const ARTICLES_DETAILED: Article[] = [
           "1. Cronometre o Tempo Agregador de Valor: Selecione um turno e acompanhe três funcionários com uma prancheta. Anote apenas o tempo em que as mãos deles estão efetivamente transformando o produto ou atendendo o cliente. Você descobrirá que menos de 45% do tempo é produtivo; o resto são esperas, deslocamentos e busca por ferramentas.",
           "2. Elimine as Etapas Parasitas: Reorganize a disposição física dos equipamentos para aproximar as ferramentas do ponto de uso (reduza o trajeto a zero). Forneça Mise en Place completo antes da abertura do serviço.",
           "3. Defina um Sistema Puxado de Trabalho: Estabeleça sinais visuais (cartões Kanban ou alertas sonoros sutis) para que um setor só produza quando o setor seguinte sinalizar capacidade de recebimento.",
-          "4. Reavalie a Carga Real: Após 15 dias com o fluxo desobstruído, meça novamente a produtividade. Na maioria dos casos documentados pela Codekis Labs, descobre-se que a equipe existente é perfeitamente capaz de atender 30% a mais de volume com menos fadiga e muito mais orgulho profissional."
+          "4. Reavalie a Carga Real: Após 15 dias com o fluxo desobstruído, meça novamente a produtividade. Na maioria dos casos documentados pela Codekis Lab, descobre-se que a equipe existente é perfeitamente capaz de atender 30% a mais de volume com menos fadiga e muito mais orgulho profissional."
         ]
       }
     ],
@@ -284,7 +284,7 @@ export const ARTICLES_DETAILED: Article[] = [
     imageCaption: "Algoritmos avançados operam cegamente sobre os dados que recebem; sem disciplina de base, a resposta é apenas uma alucinação dispendiosa.",
     author: {
       name: "Carlos Christakis",
-      role: "Idealizador da Codekis Labs"
+      role: "Idealizador da Codekis Lab"
     },
     keyTakeaways: [
       "A Inteligência Artificial é um multiplicador matemático: multiplique um processo estruturado por 10 e obtenha escala; multiplique a bagunça por 10 e obtenha catástrofe acelerada.",
@@ -367,7 +367,7 @@ export const ARTICLES_DETAILED: Article[] = [
         subtitle: "6. O Discernimento Humano e o Futuro do Trabalho",
         paragraphs: [
           "O futuro dos negócios não pertence a quem sabe apenas apertar botões ou alimentar planilhas, nem àqueles que delegam tudo a robôs por preguiça mental. O futuro pertence aos profissionais capazes de orquestrar métodos, liderar pessoas e interpretar os insights que a tecnologia fornece.",
-          "Na Codekis Labs, sustentamos que a inteligência artificial só atinge seu potencial transformador quando alicerçada sobre a fundação d'O Código: Observar a realidade sem filtros, Entender as causas primárias, Estruturar os fluxos sem atrito, Medir o que realmente importa e, só então, Decidir com sabedoria para Melhorar todo dia.",
+          "Na Codekis Lab, sustentamos que a inteligência artificial só atinge seu potencial transformador quando alicerçada sobre a fundação d'O Código: Observar a realidade sem filtros, Entender as causas primárias, Estruturar os fluxos sem atrito, Medir o que realmente importa e, só então, Decidir com sabedoria para Melhorar todo dia.",
           "Se sua empresa quer ser moderna e pioneira, não comece contratando mais robôs virtuais. Comece calçando os sapatos, descendo até a área de operação e aprendendo a enxergar como o trabalho real é executado pela sua equipe."
         ]
       }
@@ -405,7 +405,7 @@ export const ARTICLES_DETAILED: Article[] = [
     imageCaption: "Decisões apressadas tomadas por medo nos últimos 20 minutos de serviço são responsáveis por drenar até 30% do lucro líquido do dia.",
     author: {
       name: "Carlos Christakis",
-      role: "Idealizador da Codekis Labs"
+      role: "Idealizador da Codekis Lab"
     },
     keyTakeaways: [
       "O cérebro humano se acostuma rapidamente à desordem visual e passa a ignorar desperdícios recorrentes como se fossem perdas 'naturais' do ofício.",
@@ -433,7 +433,7 @@ export const ARTICLES_DETAILED: Article[] = [
         subtitle: "1. A Cegueira Operacional: Quando o Erro Vira Paisagem",
         paragraphs: [
           "Existe um fenômeno neurológico e psicológico amplamente documentado chamado 'habituação sensorial': quando um estímulo se repete de forma contínua e sem variação, o cérebro humano simplesmente apaga aquele estímulo da consciência para poupar energia mental. É por isso que você não sente o peso das roupas no corpo ou não repara no barulho da geladeira da sua cozinha.",
-          "Nas empresas, esse mesmo fenômeno gera o que na Codekis Labs denominamos 'Cegueira Operacional'. No primeiro dia de trabalho em um restaurante ou fábrica, o novo contratado estranha aquela caixa de legumes amassada jogada no chão úmido, ou a torneira pingando sem parar no fundo da pia. No trigésimo dia, no entanto, aquele cenário se transformou na paisagem comum. O erro não foi consertado; ele simplesmente foi absorvido como o 'jeito que as coisas são por aqui'.",
+          "Nas empresas, esse mesmo fenômeno gera o que na Codekis Lab denominamos 'Cegueira Operacional'. No primeiro dia de trabalho em um restaurante ou fábrica, o novo contratado estranha aquela caixa de legumes amassada jogada no chão úmido, ou a torneira pingando sem parar no fundo da pia. No trigésimo dia, no entanto, aquele cenário se transformou na paisagem comum. O erro não foi consertado; ele simplesmente foi absorvido como o 'jeito que as coisas são por aqui'.",
           "O desperdício diário é perigoso exatamente por causa dessa invisibilidade. Grandes desastres geram alarmes estridentes, comissões de crise e providências urgentes. O micro-desperdício silencioso, por outro lado, corrói as margens da empresa gota a gota, dia após dia, com a cumplicidade involuntária de todos os envolvidos."
         ],
         quote: "Antes de tentar melhorar qualquer indicador na sua empresa, existe uma etapa anterior indispensável que quase todo mundo negligencia: precisamos reaprender a enxergar o óbvio."
@@ -481,7 +481,7 @@ export const ARTICLES_DETAILED: Article[] = [
         subtitle: "5. Gestão Visual e Sistemas de Alerta Precoce",
         paragraphs: [
           "A maneira mais rápida de vencer a cegueira operacional é tornar o desperdício inegável através da Gestão Visual e do choque de realidade.",
-          "Uma das dinâmicas mais transformadoras que aplicamos nos treinamentos da Codekis Labs é a 'Auditoria da Lixeira Transparente': durante três dias consecutivos, a lixeira comum de metal ou plástico opaco do setor é substituída por um tonel de acrílico cristalino. Todo descarte de alimento sólido que vai para o lixo deve ser pesado em uma balança e registrado em um quadro branco visível antes de ser despejado.",
+          "Uma das dinâmicas mais transformadoras que aplicamos nos treinamentos da Codekis Lab é a 'Auditoria da Lixeira Transparente': durante três dias consecutivos, a lixeira comum de metal ou plástico opaco do setor é substituída por um tonel de acrílico cristalino. Todo descarte de alimento sólido que vai para o lixo deve ser pesado em uma balança e registrado em um quadro branco visível antes de ser despejado.",
           "O impacto psicológico sobre a equipe é imediato e avassalador. Quando os cozinheiros e auxiliares enxergam a montanha de comida boa empilhada dentro do recipiente transparente e visualizam que aquele monte somou 42 kg de descarte até as 15h, a indiferença se dissipa instantaneamente. O problema deixou de ser uma hipótese abstrata em um relatório e se materializou como um fato concreto diante de todos."
         ]
       },
@@ -528,7 +528,7 @@ export const ARTICLES_DETAILED: Article[] = [
     imageCaption: "O líder herói que apaga todos os incêndios no grito cria uma equipe infantilizada e dependente que trava o crescimento da empresa.",
     author: {
       name: "Carlos Christakis",
-      role: "Idealizador da Codekis Labs"
+      role: "Idealizador da Codekis Lab"
     },
     keyTakeaways: [
       "O líder centralizador confunde indispensabilidade com competência gerencial: se a empresa quebra sem ele, a gestão dele fracassou.",
@@ -601,7 +601,7 @@ export const ARTICLES_DETAILED: Article[] = [
         id: "tres-niveis-autonomia",
         subtitle: "5. O Framework dos Três Níveis de Autonomia",
         paragraphs: [
-          "Para transferir poder decisório com total segurança e sem gerar anarquia, implemente na sua empresa o Framework dos Três Níveis de Autonomia da Codekis Labs:",
+          "Para transferir poder decisório com total segurança e sem gerar anarquia, implemente na sua empresa o Framework dos Três Níveis de Autonomia da Codekis Lab:",
           "Nível 1 — Autonomia Plena com Baliza: Situações corriqueiras onde a equipe decide sozinha, sem precisar avisar a gerência, desde que respeitados os limites predefinidos. Exemplo: 'Qualquer atendente tem autorização expressa para trocar um prato ou conceder cortesia de até R$ 25,00 a um cliente que expressar insatisfação legítima'.",
           "Nível 2 — Autonomia Informada: Situações de impacto moderado onde a equipe toma a decisão imediata para não travar a esteira, mas registra a ocorrência no livro de bordo para análise posterior. Exemplo: 'Substituição de fornecedor de hortifruti em caso de falta de entrega no horário limite matinal'.",
           "Nível 3 — Deliberação Conjunta Obrigatória: Situações estratégicas ou de alto impacto financeiro que exigem obrigatoriamente a presença do gestor antes de qualquer ação. Exemplo: 'Alteração em preços de cardápio, demissões ou descarte de equipamentos eletromecânicos'."
@@ -652,7 +652,7 @@ export const ARTICLES_DETAILED: Article[] = [
     imageCaption: "Indicadores quantitativos em telas bonitas sem a vivência do chão da fábrica ou da cozinha criam uma ficção corporativa perigosa.",
     author: {
       name: "Carlos Christakis",
-      role: "Idealizador da Codekis Labs"
+      role: "Idealizador da Codekis Lab"
     },
     keyTakeaways: [
       "Um número isolado nunca é neutro; ele reflete as circunstâncias, as pressões e o método com que foi coletado no mundo real.",

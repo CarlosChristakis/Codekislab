@@ -70,19 +70,19 @@ export const ArtigoDetailPage: React.FC<ArtigoDetailPageProps> = ({
       "@type": "Person",
       "name": article.author.name,
       "jobTitle": article.author.role,
-      "url": "https://codekislabs.com.br"
+      "url": "https://codekislab.com.br"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Codekis Labs",
+      "name": "Codekis Lab",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://codekislabs.com.br/icon.png"
+        "url": "https://codekislab.com.br/icon.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://codekislabs.com.br/artigos/${article.slug}`
+      "@id": `https://codekislab.com.br/artigos/${article.slug}`
     }
   };
 
@@ -430,7 +430,7 @@ export const ArtigoDetailPage: React.FC<ArtigoDetailPageProps> = ({
                 Deseja levar essa metodologia para a sua empresa?
               </h4>
               <p className="text-xs text-slate-300">
-                A Codekis Labs realiza diagnósticos e treinamentos focados em processos e autonomia.
+                A Codekis Lab realiza diagnósticos e treinamentos focados em processos e autonomia.
               </p>
             </div>
             <ButtonPrimary

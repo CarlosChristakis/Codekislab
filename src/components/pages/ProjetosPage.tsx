@@ -269,7 +269,7 @@ export const ProjetosPage: React.FC<ProjetosPageProps> = ({
                           
                           <div className="space-y-2">
                             <span className="text-xs font-heading font-bold uppercase tracking-wider text-[#04162B] block">
-                              Abordagem Codekis Labs
+                              Abordagem Codekis Lab
                             </span>
                             <p className="text-xs sm:text-sm text-[#475569] leading-relaxed">
                               {sol.approach}
@@ -319,7 +319,7 @@ export const ProjetosPage: React.FC<ProjetosPageProps> = ({
       )}
 
 
-      {/* 3. TAB CONTENT: VERTICAIS & LABS */}
+      {/* 3. TAB CONTENT: VERTICAIS & LAB */}
       {activeTab === 'verticais' && (
         <section className="py-16 lg:py-24 bg-[#FFFFFF]">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -412,7 +412,7 @@ export const ProjetosPage: React.FC<ProjetosPageProps> = ({
           </h2>
 
           <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed">
-            Agende uma conversa de alinhamento com a equipe da Codekis Labs. Avaliamos a maturidade da sua operação e propomos a melhor trilha de desenvolvimento.
+            Agende uma conversa de alinhamento com a equipe da Codekis Lab. Avaliamos a maturidade da sua operação e propomos a melhor trilha de desenvolvimento.
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 pt-4">

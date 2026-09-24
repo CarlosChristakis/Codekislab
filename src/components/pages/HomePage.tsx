@@ -281,7 +281,7 @@ export const HomePage: React.FC<HomePageProps> = ({
               Muitas organizações possuem profissionais capazes de executar tarefas com eficiência, mas ainda dependem excessivamente de supervisão, correção e controle. Quando o profissional não compreende o impacto de suas decisões sobre tempo, custo, qualidade, estoque, cliente e resultado, a organização perde capacidade de evolução.
             </p>
             <p className="text-sm font-semibold text-[#04162B] pt-1">
-              A Codekis Labs nasce para desenvolver essa compreensão.
+              A Codekis Lab nasce para desenvolver essa compreensão.
             </p>
           </div>
 
@@ -369,7 +369,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                   Quando o profissional sabe apenas executar, aumentam a dependência de supervisão, o retrabalho, o desperdício, a perda de conhecimento e a dificuldade de melhoria.
                 </p>
                 <p className="font-semibold text-[#04162B]">
-                  A Codekis Labs nasce para atuar justamente nesse espaço.
+                  A Codekis Lab nasce para atuar justamente nesse espaço.
                 </p>
                 
                 <div className="p-5 rounded-2xl bg-[#04162B] text-white border border-[#072F54] space-y-2">
@@ -383,7 +383,7 @@ export const HomePage: React.FC<HomePageProps> = ({
               </div>
             </div>
 
-            {/* Bloco 2: Por que a Codekis Labs existe */}
+            {/* Bloco 2: Por que a Codekis Lab existe */}
             <div className="lg:col-span-5 bg-[#04162B] text-white p-8 sm:p-10 rounded-3xl border border-[#072F54] shadow-md space-y-6 flex flex-col justify-between">
               <div className="space-y-4">
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#C38735]/20 border border-[#C38735]/30 text-[#C38735] text-xs font-heading font-bold uppercase tracking-widest">
@@ -396,7 +396,7 @@ export const HomePage: React.FC<HomePageProps> = ({
 
                 <div className="space-y-3.5 text-sm sm:text-base text-slate-300 leading-relaxed">
                   <p>
-                    A Codekis Labs nasceu da observação de um problema simples, mas recorrente: organizações treinam pessoas para executar, mas nem sempre desenvolvem pessoas para compreender.
+                    A Codekis Lab nasceu da observação de um problema simples, mas recorrente: organizações treinam pessoas para executar, mas nem sempre desenvolvem pessoas para compreender.
                   </p>
                   <p>
                     Essa diferença afeta autonomia, qualidade, custos, conhecimento, tomada de decisão e capacidade de melhoria.
@@ -431,7 +431,7 @@ export const HomePage: React.FC<HomePageProps> = ({
               <span>Pitch Visual</span>
             </span>
             <h2 className="text-2xl sm:text-4xl font-heading font-extrabold text-[#04162B] tracking-tight">
-              A trajetória da Codekis Labs em quatro movimentos
+              A trajetória da Codekis Lab em quatro movimentos
             </h2>
             <p className="text-sm sm:text-base text-[#475569] leading-relaxed">
               Uma visão linear de como transformamos a dor da operação em capacidade de escala setorial.
@@ -788,7 +788,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                 A Casa em Pleno Funcionamento • O Ecossistema
               </span>
               <h3 className="text-2xl sm:text-3xl font-heading font-extrabold text-white">
-                CODEKIS LABS
+                CODEKIS LAB
               </h3>
               <p className="text-xs sm:text-sm text-slate-300 mt-1 max-w-xl mx-auto">
                 O ambiente completo onde processos, pessoas, dados e inteligência artificial operam em harmonia para gerar valor.
@@ -930,7 +930,7 @@ export const HomePage: React.FC<HomePageProps> = ({
 
               <div className="space-y-3 text-base sm:text-lg text-[#475569] leading-relaxed">
                 <p className="font-semibold text-[#04162B]">
-                  O Código da Cozinha Pensante é a primeira vertical da Codekis Labs e funciona como o primeiro laboratório de aplicação da metodologia.
+                  O Código da Cozinha Pensante é a primeira vertical da Codekis Lab e funciona como o primeiro laboratório de aplicação da metodologia.
                 </p>
                 <p>
                   A gastronomia é o primeiro ambiente de validação, mas o Código foi concebido para evoluir para outros setores. Na operação gastronômica, desenvolvemos profissionais capazes de ir além da execução e compreender produção, desperdício, CMV, estoque, fluxo, equipe, qualidade e tomada de decisão.
@@ -1214,7 +1214,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           </h2>
 
           <p className="text-base sm:text-xl text-slate-300 max-w-2xl mx-auto leading-relaxed">
-            A Codekis Labs desenvolve pessoas para compreender, decidir e melhorar processos.
+            A Codekis Lab desenvolve pessoas para compreender, decidir e melhorar processos.
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 pt-4">

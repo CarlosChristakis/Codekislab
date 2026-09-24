@@ -149,7 +149,7 @@ export const CodekisLogo: React.FC<CodekisLogoProps> = ({
   }
 
   const textColorClass = isLight ? 'text-white' : 'text-[#04162B]';
-  const labsColorClass = isLight ? 'text-slate-300' : 'text-[#475569]';
+  const labColorClass = isLight ? 'text-slate-300' : 'text-[#475569]';
   const lineRuleColor = isLight ? 'bg-[#C38735]' : 'bg-[#C38735]';
 
   if (variant === 'stacked') {
